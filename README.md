@@ -1,6 +1,15 @@
 # Loan-Default-Prediction
 
-## Prerequisite :
+The aim of this project is to mine actual bank transaction data to solve a problem of interest to your client which is a large Italian bank seeking to reduce bad loans. The goal is to produce estimates of probability of that firm defaulting on the loan within the next 12 months.
+
+Following methodology was followed in this project:
+1. Data Understanding
+2. Data Preparation
+3. Modeling 
+4. Evaluation
+5. Deployment
+
+## Prerequisite to Run :
 
 1. Kindly install imbalanced-learn
 Eg. conda install -c conda-forge imbalanced-learn
